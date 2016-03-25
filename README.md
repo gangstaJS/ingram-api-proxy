@@ -11,6 +11,8 @@ module.exports = {
 }
 ```
 
-Then run comand `npm install`
+Then run command `npm install`
 
 Start server `npm start`
+
+Server API start at `http://localhost:3800/services/v1`
